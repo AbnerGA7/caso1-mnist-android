@@ -3,6 +3,10 @@
 App Android que reconoce dígitos escritos a mano (0-9) **directamente en el dispositivo**, sin conexión a Internet, usando una CNN entrenada con MNIST y convertida a TensorFlow Lite (LiteRT).
 
 <p align="center">
+  <a href="https://github.com/AbnerGA7/caso1-mnist-android/releases/latest/download/caso1.apk"><img src="https://img.shields.io/badge/Descargar_APK-v1.0.0-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Descargar APK"></a>
+</p>
+
+<p align="center">
   <img src="evidencias/celular_real.png" width="260" alt="App funcionando en un celular real">
 </p>
 
@@ -29,7 +33,7 @@ App Android que reconoce dígitos escritos a mano (0-9) **directamente en el dis
 
 ## Opción rápida: instalar el APK en el celular
 
-1. Copia `caso1.apk` al celular (por cable USB, Drive, WhatsApp, etc.) o descárgalo desde este repositorio.
+1. Descarga el APK desde **[Releases](https://github.com/AbnerGA7/caso1-mnist-android/releases/latest)** directamente en el celular, o copia `caso1.apk` por cable USB, Drive o WhatsApp.
 2. Abre el archivo desde el administrador de archivos del celular.
 3. Si aparece el aviso **"Instalar apps desconocidas"**, entra a *Ajustes* y activa el permiso para la app desde la que abriste el APK (Archivos, Chrome, etc.).
 4. Pulsa **Instalar** y luego **Abrir**.
