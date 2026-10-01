@@ -1,0 +1,19 @@
+# Android / Gradle
+caso1/.gradle/
+caso1/build/
+caso1/app/build/
+caso1/.kotlin/
+caso1/.idea/
+caso1/local.properties
+*.iml
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Sistema
+Thumbs.db
+desktop.ini
+.DS_Store
