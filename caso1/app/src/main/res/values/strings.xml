@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">caso1</string>
+    <string name="hint">Dibuja un dígito (0-9) en el recuadro</string>
+    <string name="clear">Limpiar</string>
+    <string name="predict">Predecir</string>
+    <string name="sample">Muestra</string>
+    <string name="tensor">Tensor de entrada 28×28</string>
+    <string name="probs">Probabilidades (salida [1,10])</string>
+</resources>
